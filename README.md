@@ -1,120 +1,100 @@
+<h1 align="center">Mayara M. Bertolotti</h1>
+
 <p align="center">
-  <img src="assets/github-cover.png" width="100%" />
+  <em>Transformando dados em decisões confiáveis, escaláveis e orientadas ao negócio</em>
 </p>
 
-<h1 align="center">Mayara M. Bertolotti</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ETL-Data%20Pipelines-blue"/>
+</p>
+
+---
+
 <h3 align="center">Analista de Dados | Planejamento & Analytics</h3>
 
 ---
 
-<table>
-<tr>
+## 👋 Olá! Eu sou a Mayara
 
-<td width="30%" valign="top">
+Sou formada em **Análise e Desenvolvimento de Sistemas**, com mais de **10 anos de experiência em logística, planejamento e analytics**, atuando de forma estratégica na análise de dados e apoio à tomada de decisão.
 
-<img src="assets/profile.jpg" width="180" style="border-radius:50%" />
+Trabalho com dados pensando **de ponta a ponta**: da extração e tratamento até a visualização e governança, sempre com foco em eficiência operacional, automação e escalabilidade.
 
-### 📍 Informações
-📍 Brasil — Extrema/MG  
-📞 +55 (35) 99767-2548  
-📧 m.bertolotti@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mayarabertolotti/)
+Atualmente curso **MBA em Ciência de Dados**, aprofundando habilidades analíticas e técnicas aplicadas a cenários reais de negócio.
 
 ---
 
-### 🎓 Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas**  
-  Anhembi Morumbi — Concluído  
+## 🧠 Sobre mim
 
-- **MBA em Ciência de Dados**  
-  FM2S — Em andamento  
+Atuo em ambientes dinâmicos e de alto volume, conectando **negócio, dados e tecnologia** para resolver problemas reais de forma estruturada.
 
----
+- Experiência sólida em processos logísticos end-to-end  
+- Planejamento operacional, forecast de volumes e dimensionamento de mão de obra  
+- Construção de indicadores, KPIs e dashboards executivos  
+- Automação de processos para redução de esforço manual e risco operacional  
+- Forte preocupação com governança, estrutura e qualidade dos dados  
+- Vivência com **metodologias ágeis** (Scrum, práticas ágeis), incluindo **Lean Six Sigma White Belt**  
+- Participação ativa em **projetos de TI corporativos**, atuando como ponte entre áreas de negócio e tecnologia  
 
-### 🧩 Soft Skills
-- Pensamento analítico  
-- Orientação a dados  
-- Melhoria contínua  
-- Trabalho em equipe  
-- Foco em resultados  
-
-</td>
-
-<td width="70%" valign="top">
-
-### 👩‍💻 Sobre mim
-Sou formada em Análise e Desenvolvimento de Sistemas, com mais de 10 anos de experiência em logística e planejamento, atuando de forma estratégica na análise de dados e suporte à tomada de decisão.
-
-Tenho histórico em ambientes dinâmicos e de rápido crescimento, incluindo startups, sempre com foco em eficiência operacional, melhoria contínua e uso inteligente de dados.
-
-Ao longo da minha trajetória, desenvolvi sólida experiência em processos logísticos end-to-end, com atuação em recebimento, expedição, transporte, gestão de estoque e acompanhamento de pedidos. Atuei fortemente em planejamento operacional, incluindo forecast de volumes, conversão de demanda em mão de obra, controle de capacidade, produtividade e alocação de equipes, sempre orientada por indicadores e resultados.
-
-Atualmente, curso MBA em Ciência de Dados, aprofundando competências analíticas e técnicas para aplicação prática de dados em cenários reais de negócio.
+Sou movida por melhoria contínua, decisões orientadas a dados e soluções simples para problemas complexos.
 
 ---
 
-### 🎯 Objetivos Profissionais
-- Atuar em projetos orientados a dados, apoiando decisões estratégicas e iniciativas de melhoria contínua  
-- Evoluir tecnicamente em Ciência de Dados, aplicando modelos analíticos e indicadores para geração de valor ao negócio  
+## 🚀 Tecnologias e ferramentas que utilizo no dia a dia
 
----
+### 🔹 Core stack (uso contínuo em projetos reais)
 
-### 🧠 Como eu penso dados
-- Dados são sistemas, não planilhas  
-- Governança vem antes da visualização  
-- Automação reduz risco operacional  
-- Estrutura bem feita evita retrabalho  
-- Escalabilidade deve ser considerada desde o início  
-
----
-
-### 🏗️ Arquitetura & Abordagem Técnica
-- Engenharia analítica orientada a produção  
-- Pipelines Python (ETL incremental, snapshots, consolidação de bases)  
-- Modelagem dimensional para BI  
-- Automação de processos corporativos  
-- Versionamento e governança de dados  
-
----
-
-### 🛠️ Stack Técnico
-
-**BI & Analytics**
-- Power BI (modelagem de dados, DAX, Power Query M)
-- Looker Studio (visualização, parâmetros e filtros)
-
-**Engenharia & Dados**
-- Python (Pandas, NumPy, estatística aplicada)
-- SQL (MySQL, DB2, integração de dados)
-
-**Automação & Processos**
-- Power Automate
-- Power Apps
-- Google Apps Script
-
-**Plataformas**
-- SharePoint
-- Google Workspace
-- Azure
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayarabertolotti&show_icons=true&cache_seconds=86400" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarabertolotti&layout=compact&cache_seconds=86400" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
 </p>
 
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query%20(M)-0F4C81?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+---
+
+## 📚 Tecnologias que já utilizei em estudos e projetos acadêmicos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,docker" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+<p>
+Tecnologias utilizadas em contexto acadêmico, cursos de pós-graduação e projetos de estudo, com foco em aprendizado de arquitetura, automação, integração de sistemas e fundamentos de desenvolvimento.
+</p>
+
+---
+
+## 📫 Onde me encontrar
+
+- 📍 Brasil — Extrema/MG  
+- 📧 Email: **m.bertolotti@hotmail.com**  
+- 💼 <a href="https://www.linkedin.com/in/mayarabertolotti/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Mayara%20Bertolotti-0A66C2?logo=linkedin&logoColor=white"/>
+      </a>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:928DAB,100:1f1c2c&height=80&section=footer" />
 </p>
